@@ -9,7 +9,7 @@ I am a working as a QA Intern  in GroTechMinds. I have good knowledge in Manual 
 
 
 
-## 🙋‍♀️ Let's Connect
+## You can connect me at
 
 <p align="center">
 	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
