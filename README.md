@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+Hi, I'm Eeshan Acharya
+ </h1>
 
-<!--
-**eeshanacharya1992/eeshanacharya1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+I am a working as a QA Intern working in GroTechMinds. I have good knowledge in Manual Testing, Selenium CoreJava and TestNG
+</samp>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## You can Connect me at 
+
+<p align="center">
+
+	<a href="https://www.linkedin.com/in/eeshan-acharya-15a044231/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+
+
