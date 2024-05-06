@@ -12,8 +12,7 @@ I am a working as a QA Intern  in GroTechMinds. I have good knowledge in Manual 
 ## You can connect me at
 
 <p align="center">
-	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/yashitanamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	
 	<a href="https://www.linkedin.com/in/eeshan-acharya-15a044231/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
