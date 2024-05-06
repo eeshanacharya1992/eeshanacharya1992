@@ -3,7 +3,7 @@ Hi, I'm Eeshan Acharya
  </h1>
 
 <samp>
-I am a working as a QA Intern  in GroTechMinds. I have good knowledge in Manual Testing, Selenium CoreJava and TestNG
+Currently working as a QA Intern  in GroTechMinds. Possess good knowledge in Manual Testing, Selenium CoreJava and TestNG
 </samp>
 
 ## Tools used 
