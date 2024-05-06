@@ -11,6 +11,7 @@ I am a working as a QA Intern  in GroTechMinds. I have good knowledge in Manual 
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 	   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-FF6C37?logo=selenium&logoColor=green"></a>
+	   <a href="#"><img alt="TestNG" src="https://img.shields.io/badge/TestNG-FF6C37?logo=selenium&logoColor=Red&Yellow"></a>
 </p>
 ## You can connect me at
 
