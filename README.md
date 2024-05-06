@@ -13,12 +13,11 @@ I am a working as a QA Intern  in GroTechMinds. I have good knowledge in Manual 
 	   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-FF6C37?logo=selenium&logoColor=green"></a>
 	   <a href="#"><img alt="TestNG" src="https://img.shields.io/badge/TestNG-FF6C37?logo=testng&logoColor=Red"></a>
 </p>
+
 ## You can connect me at
 
-<p align="center">
-	
-	<a href="https://www.linkedin.com/in/eeshan-acharya-15a044231/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
+<p align="center">	
+<a href="https://www.linkedin.com/in/eeshan-acharya-15a044231/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 </p>
 
 
