@@ -3,7 +3,6 @@ Hi, I'm Eeshan Acharya
  </h1>
 <p>
  <img src="https://i.pinimg.com/originals/c6/9f/a6/c69fa6e9d0af971ba052817ae70c4261.gif"
-
 </p>
 <p>
 Currently working as a QA Intern  in GroTechMinds. Possess good knowledge in Manual Testing, Selenium CoreJava and TestNG.
