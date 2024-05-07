@@ -16,8 +16,8 @@ My Roles and Responsibilities in current organisation are:
 </p>
 <p>
  <img src="https://i.pinimg.com/originals/c6/9f/a6/c69fa6e9d0af971ba052817ae70c4261.gif"
-
 </p>
+
 ## Technical Skills
 <p>
 Manual Testing
