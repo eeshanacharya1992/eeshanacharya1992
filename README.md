@@ -14,7 +14,10 @@ My Roles and Responsibilities in current organisation are:
 7.  Test Case Execution
 8.  Participating in sprint planning meeting,impact analysis meeting and sprint retrospective meeting	
 </p>
+<p>
+ <img src="https://i.pinimg.com/originals/c6/9f/a6/c69fa6e9d0af971ba052817ae70c4261.gif"
 
+</p>
 ## Technical Skills
 <p>
 Manual Testing
