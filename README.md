@@ -2,7 +2,7 @@
 Hi, I'm Eeshan Acharya
  </h1>
 
-<samp>
+<p>
 Currently working as a QA Intern  in GroTechMinds. Possess good knowledge in Manual Testing, Selenium CoreJava and TestNG
 My Roles and Responsibilities in current organisation are:
 1.  Understanding the requirements
@@ -13,7 +13,7 @@ My Roles and Responsibilities in current organisation are:
 6.  Fixing the review comments
 7.  Test Case Execution
 8.  Participating in sprint planning meeting,impact analysis meeting and sprint retrospective meeting	
-</samp>
+</p>
 
 ## Technical Skills
 <p>
