@@ -46,6 +46,7 @@ Selenium
      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 	   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-FF6C37?logo=selenium&logoColor=green"></a>
 	   <a href="#"><img alt="TestNG" src="https://img.shields.io/badge/TestNG-FF6C37?logo=testng&logoColor=Red"></a>
+           <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FF6C37?logo=eclipse&logoColor=purple"></a>
 </p>
 
 ## You can connect me at
