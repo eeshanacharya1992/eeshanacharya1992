@@ -15,6 +15,33 @@ My Roles and Responsibilities in current organisation are:
 8.  Participating in sprint planning meeting,impact analysis meeting and sprint retrospective meeting	
 </samp>
 
+## Technical Skills
+<p>
+<h1 align="center">	
+Manual Testing
+
+•	Strong knowledge on SDLC and STLC concepts.
+•	Extensive knowledge in Smoke testing, functional testing, integration testing, adhoc testing, compatibility testing and system testing.
+•	Strong knowledge in writing test cases, test scenarios and test planand reviewing it.
+•	Strong knowledge on defect life cycle.
+•	Very good knowledge on scrum methodology.
+•	Very good knowledge of test case design techniques, regression testing,
+
+JAVA Testing
+
+•	Strong Knowledge on method overloading, method overriding, typecasting and Interface.
+•	Good knowledge keywords, local variables, Global Variable, String Functions, SIB, IIB, constructor,
+•	Extensive knowledge on polymorphism, abstract class and inheritance and encapsulation.
+
+Selenium
+
+•	Writing the script using TestNG and POM concept.
+•	Hand on experience of converting manual test cases into automation test scripts.
+•	Experience in handling Popups, Drop-down, Screenshots etc.
+•	Good knowledge on synchronization, Data Driven testing, Javascript executor, Assert, Soft assert.
+ </h1>	
+</p>
+
 ## Tools used 
 <p>
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
