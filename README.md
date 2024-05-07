@@ -3,7 +3,8 @@ Hi, I'm Eeshan Acharya
  </h1>
 
 <p>
-Currently working as a QA Intern  in GroTechMinds. Possess good knowledge in Manual Testing, Selenium CoreJava and TestNG
+Currently working as a QA Intern  in GroTechMinds. Possess good knowledge in Manual Testing, Selenium CoreJava and TestNG.
+
 My Roles and Responsibilities in current organisation are:
 1.  Understanding the requirements
 2.  Identifying the test scenarios	
