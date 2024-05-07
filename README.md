@@ -17,7 +17,6 @@ My Roles and Responsibilities in current organisation are:
 
 ## Technical Skills
 <p>
-<h1 align="center">	
 Manual Testing
 
 •	Strong knowledge on SDLC and STLC concepts.
@@ -39,7 +38,6 @@ Selenium
 •	Hand on experience of converting manual test cases into automation test scripts.
 •	Experience in handling Popups, Drop-down, Screenshots etc.
 •	Good knowledge on synchronization, Data Driven testing, Javascript executor, Assert, Soft assert.
- </h1>	
 </p>
 
 ## Tools used 
